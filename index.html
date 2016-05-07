@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html >
+  <head>
+    <meta charset="UTF-8">
+    <title>COHO DATABASE</title>
+    
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.0/jquery.min.js"></script>
+    
+    
+        <link rel="stylesheet" href="css/style.css">
+<script>
+    $(document).ready(function(){
+        
+    $(document).on('click', "#butPress", function(){
+        login();
+        });
+        
+    function login(){
+
+
+                                    eMail = document.getElementById("temail").value;
+                                    
+                                    passer = document.getElementById("pass").value;
+                                    
+                                    
+
+                                    $.ajax({
+                                    url: 'http://coho.spurlock.io/student/query.php',
+                                    data: { temail : eMail, pass : passer},
+                                    error: function(){ alert("Error accessing database. Refresh and try again."); },
+                                    success: function(data) 
+                                    {
+                                        if(data=="verified"){
+                                            location.href = 'work.php';
+                                        }else{
+                                            alert("Error accessing database. Refresh and try again.");
+                                        }
+                                        
+                                    },
+                                    type: 'GET'
+                                });
+                              
+                              
+                        };
+        
+        });
+    
+    </script>
+    
+    
+  </head>
+
+  <body>
+
+    
+<div id="form">
+    <div id = "logo">
+        <img src="/images/logo.png">
+    </div>
+  <header>Login</header>
+  <label>Username <span>*</span></label>
+  <input type="text" name="user" id="temail">
+  <div class="help">At least 6 character</div>
+  <label>Password <span>*</span></label>
+  <input type="password" name="password" id = "pass">
+  <div class="help">Use upper and lowercase lettes as well</div>
+  <button id="butPress">Login</button>
+</div>
+    
+    
+    
+    
+    
+  </body>
+</html>

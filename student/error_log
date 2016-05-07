@@ -1,0 +1,103 @@
+[06-Mar-2016 00:29:00 America/Chicago] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home2/racer161/public_html/coho/student/query.php on line 42
+[06-Mar-2016 00:29:17 America/Chicago] PHP Warning:  mysqli::mysqli(): (42000/1044): Access denied for user 'racer161_test'@'localhost' to database 'racer161_Test' in /home2/racer161/public_html/coho/student/query.php on line 10
+[06-Mar-2016 00:29:55 America/Chicago] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'racer161_coho'@'localhost' (using password: YES) in /home2/racer161/public_html/coho/student/query.php on line 10
+[06-Mar-2016 01:14:36 America/Chicago] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home2/racer161/public_html/coho/student/query.php on line 68
+[06-Mar-2016 01:15:27 America/Chicago] PHP Fatal error:  Call to undefined function password_hash() in /home2/racer161/public_html/coho/student/query.php on line 60
+[06-Mar-2016 01:21:57 America/Chicago] PHP Fatal error:  Call to a member function close() on a non-object in /home2/racer161/public_html/coho/student/register.php on line 31
+[28-Mar-2016 09:48:48 America/Chicago] PHP Parse error:  syntax error, unexpected ':' in /home2/racer161/public_html/coho/student/query.php on line 86
+[28-Mar-2016 09:48:48 America/Chicago] PHP Parse error:  syntax error, unexpected ':' in /home2/racer161/public_html/coho/student/query.php on line 86
+[28-Mar-2016 09:48:50 America/Chicago] PHP Parse error:  syntax error, unexpected ':' in /home2/racer161/public_html/coho/student/query.php on line 86
+[28-Mar-2016 09:50:26 America/Chicago] PHP Parse error:  syntax error, unexpected ':' in /home2/racer161/public_html/coho/student/query.php on line 86
+[28-Mar-2016 10:44:36 America/Chicago] PHP Parse error:  syntax error, unexpected 'var' (T_VAR) in /home2/racer161/public_html/coho/student/query.php on line 92
+[28-Mar-2016 10:45:10 America/Chicago] PHP Parse error:  syntax error, unexpected 'var' (T_VAR) in /home2/racer161/public_html/coho/student/query.php on line 92
+[28-Mar-2016 10:45:13 America/Chicago] PHP Parse error:  syntax error, unexpected 'var' (T_VAR) in /home2/racer161/public_html/coho/student/query.php on line 92
+[28-Mar-2016 10:46:09 America/Chicago] PHP Parse error:  syntax error, unexpected '++' (T_INC) in /home2/racer161/public_html/coho/student/query.php on line 102
+[28-Mar-2016 10:52:08 America/Chicago] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, object given in /home2/racer161/public_html/coho/student/query.php on line 99
+[28-Mar-2016 10:52:08 America/Chicago] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, object given in /home2/racer161/public_html/coho/student/query.php on line 99
+[28-Mar-2016 10:52:08 America/Chicago] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, object given in /home2/racer161/public_html/coho/student/query.php on line 99
+[28-Mar-2016 10:53:08 America/Chicago] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, array given in /home2/racer161/public_html/coho/student/query.php on line 99
+[28-Mar-2016 10:53:08 America/Chicago] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, null given in /home2/racer161/public_html/coho/student/query.php on line 99
+[28-Mar-2016 10:53:45 America/Chicago] PHP Parse error:  syntax error, unexpected '{' in /home2/racer161/public_html/coho/student/query.php on line 99
+[28-Mar-2016 10:55:19 America/Chicago] PHP Parse error:  syntax error, unexpected '{' in /home2/racer161/public_html/coho/student/query.php on line 99
+[28-Mar-2016 10:55:22 America/Chicago] PHP Parse error:  syntax error, unexpected '{' in /home2/racer161/public_html/coho/student/query.php on line 99
+[28-Mar-2016 10:55:52 America/Chicago] PHP Parse error:  syntax error, unexpected '{' in /home2/racer161/public_html/coho/student/query.php on line 99
+[28-Mar-2016 10:55:54 America/Chicago] PHP Parse error:  syntax error, unexpected '{' in /home2/racer161/public_html/coho/student/query.php on line 99
+[28-Mar-2016 10:56:30 America/Chicago] PHP Parse error:  syntax error, unexpected '{' in /home2/racer161/public_html/coho/student/query.php on line 99
+[30-Mar-2016 09:41:37 America/Chicago] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home2/racer161/public_html/coho/student/index.php on line 42
+[03-Apr-2016 04:22:30 America/Chicago] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home2/racer161/public_html/coho/student/index.php on line 42
+[03-Apr-2016 13:58:26 America/Chicago] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home2/racer161/public_html/coho/student/index.php on line 42
+[03-Apr-2016 13:58:32 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home2/racer161/public_html/coho/student/query.php on line 122
+[03-Apr-2016 14:00:21 America/Chicago] PHP Fatal error:  Cannot redeclare get_class() in /home2/racer161/public_html/coho/student/query.php on line 122
+[03-Apr-2016 14:00:58 America/Chicago] PHP Fatal error:  Cannot redeclare get_class() in /home2/racer161/public_html/coho/student/query.php on line 122
+[03-Apr-2016 14:01:00 America/Chicago] PHP Fatal error:  Cannot redeclare get_class() in /home2/racer161/public_html/coho/student/query.php on line 122
+[03-Apr-2016 14:03:40 America/Chicago] PHP Fatal error:  Call to a member function query() on a non-object in /home2/racer161/public_html/coho/student/query.php on line 117
+[03-Apr-2016 14:04:19 America/Chicago] PHP Fatal error:  Call to a member function query() on a non-object in /home2/racer161/public_html/coho/student/query.php on line 117
+[03-Apr-2016 14:19:03 America/Chicago] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home2/racer161/public_html/coho/student/index.php on line 42
+[03-Apr-2016 14:34:02 America/Chicago] PHP Parse error:  syntax error, unexpected '{' in /home2/racer161/public_html/coho/student/query.php on line 113
+[12-Apr-2016 13:52:32 America/Chicago] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home2/racer161/public_html/coho/student/index.php on line 42
+[13-Apr-2016 10:09:52 America/Chicago] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home2/racer161/public_html/coho/student/index.php on line 42
+[13-Apr-2016 10:39:26 America/Chicago] PHP Parse error:  syntax error, unexpected '' AND DATE ='' (T_CONSTANT_ENCAPSED_STRING) in /home2/racer161/public_html/coho/student/query.php on line 94
+[13-Apr-2016 10:39:35 America/Chicago] PHP Parse error:  syntax error, unexpected '' AND DATE ='' (T_CONSTANT_ENCAPSED_STRING) in /home2/racer161/public_html/coho/student/query.php on line 94
+[14-Apr-2016 10:12:39 America/Chicago] PHP Parse error:  syntax error, unexpected 'get_cls' (T_STRING), expecting ',' or ';' in /home2/racer161/public_html/coho/student/query.php on line 100
+[14-Apr-2016 10:26:58 America/Chicago] PHP Fatal error:  Call to undefined function getcls() in /home2/racer161/public_html/coho/student/query.php on line 103
+[14-Apr-2016 20:09:09 America/Chicago] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home2/racer161/public_html/coho/student/index.php on line 42
+[20-Apr-2016 04:02:39 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home2/racer161/public_html/coho/student/query.php on line 148
+[05-May-2016 15:03:55 America/Chicago] PHP Warning:  mysqli::mysqli(): Headers and client library minor version mismatch. Headers:50542 Library:50167 in /home2/racer161/public_html/coho/student/query.php on line 30
+[05-May-2016 15:03:58 America/Chicago] PHP Warning:  mysqli::mysqli(): Headers and client library minor version mismatch. Headers:50542 Library:50167 in /home2/racer161/public_html/coho/student/query.php on line 30
+[05-May-2016 15:04:00 America/Chicago] PHP Warning:  mysqli::mysqli(): Headers and client library minor version mismatch. Headers:50542 Library:50167 in /home2/racer161/public_html/coho/student/query.php on line 30
+[05-May-2016 15:04:02 America/Chicago] PHP Warning:  mysqli::mysqli(): Headers and client library minor version mismatch. Headers:50542 Library:50167 in /home2/racer161/public_html/coho/student/query.php on line 30
+[05-May-2016 15:04:21 America/Chicago] PHP Warning:  mysqli::mysqli(): Headers and client library minor version mismatch. Headers:50542 Library:50167 in /home2/racer161/public_html/coho/student/query.php on line 30
+[05-May-2016 15:04:21 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/racer161/public_html/coho/student/query.php:30) in /home2/racer161/public_html/coho/student/query.php on line 199
+[05-May-2016 15:04:34 America/Chicago] PHP Warning:  mysqli::mysqli(): Headers and client library minor version mismatch. Headers:50542 Library:50167 in /home2/racer161/public_html/coho/student/query.php on line 30
+[05-May-2016 15:04:34 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/racer161/public_html/coho/student/query.php:30) in /home2/racer161/public_html/coho/student/query.php on line 199
+[05-May-2016 15:04:58 America/Chicago] PHP Warning:  mysqli::mysqli(): Headers and client library minor version mismatch. Headers:50542 Library:50167 in /home2/racer161/public_html/coho/student/query.php on line 30
+[05-May-2016 15:05:02 America/Chicago] PHP Warning:  mysqli::mysqli(): Headers and client library minor version mismatch. Headers:50542 Library:50167 in /home2/racer161/public_html/coho/student/query.php on line 30
+[05-May-2016 15:05:05 America/Chicago] PHP Warning:  mysqli::mysqli(): Headers and client library minor version mismatch. Headers:50542 Library:50167 in /home2/racer161/public_html/coho/student/query.php on line 30
+[05-May-2016 15:05:06 America/Chicago] PHP Warning:  mysqli::mysqli(): Headers and client library minor version mismatch. Headers:50542 Library:50167 in /home2/racer161/public_html/coho/student/query.php on line 30
+[05-May-2016 15:05:17 America/Chicago] PHP Warning:  mysqli::mysqli(): Headers and client library minor version mismatch. Headers:50542 Library:50167 in /home2/racer161/public_html/coho/student/query.php on line 30
+[05-May-2016 15:06:03 America/Chicago] PHP Warning:  mysqli::mysqli(): Headers and client library minor version mismatch. Headers:50542 Library:50167 in /home2/racer161/public_html/coho/student/query.php on line 30
+[05-May-2016 15:06:05 America/Chicago] PHP Warning:  mysqli::mysqli(): Headers and client library minor version mismatch. Headers:50542 Library:50167 in /home2/racer161/public_html/coho/student/query.php on line 30
+[05-May-2016 15:12:06 America/Chicago] PHP Warning:  mysqli::mysqli(): Headers and client library minor version mismatch. Headers:50542 Library:50167 in /home2/racer161/public_html/coho/student/query.php on line 30
+[05-May-2016 15:12:10 America/Chicago] PHP Warning:  mysqli::mysqli(): Headers and client library minor version mismatch. Headers:50542 Library:50167 in /home2/racer161/public_html/coho/student/query.php on line 30
+[05-May-2016 15:14:05 America/Chicago] PHP Warning:  mysqli::mysqli(): Headers and client library minor version mismatch. Headers:50542 Library:50167 in /home2/racer161/public_html/coho/student/query.php on line 30
+[05-May-2016 15:14:05 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/racer161/public_html/coho/student/query.php:30) in /home2/racer161/public_html/coho/student/query.php on line 199
+[05-May-2016 15:14:09 America/Chicago] PHP Warning:  mysqli::mysqli(): Headers and client library minor version mismatch. Headers:50542 Library:50167 in /home2/racer161/public_html/coho/student/query.php on line 30
+[05-May-2016 15:14:09 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/racer161/public_html/coho/student/query.php:30) in /home2/racer161/public_html/coho/student/query.php on line 199
+[05-May-2016 15:17:39 America/Chicago] PHP Warning:  mysqli::mysqli(): Headers and client library minor version mismatch. Headers:50542 Library:50167 in /home2/racer161/public_html/coho/student/query.php on line 30
+[05-May-2016 15:18:38 America/Chicago] PHP Warning:  mysqli::mysqli(): Headers and client library minor version mismatch. Headers:50542 Library:50167 in /home2/racer161/public_html/coho/student/query.php on line 30
+[05-May-2016 15:18:39 America/Chicago] PHP Warning:  mysqli::mysqli(): Headers and client library minor version mismatch. Headers:50542 Library:50167 in /home2/racer161/public_html/coho/student/query.php on line 30
+[05-May-2016 15:18:44 America/Chicago] PHP Warning:  mysqli::mysqli(): Headers and client library minor version mismatch. Headers:50542 Library:50167 in /home2/racer161/public_html/coho/student/query.php on line 30
+[05-May-2016 15:18:45 America/Chicago] PHP Warning:  mysqli::mysqli(): Headers and client library minor version mismatch. Headers:50542 Library:50167 in /home2/racer161/public_html/coho/student/query.php on line 30
+[05-May-2016 15:21:15 America/Chicago] PHP Warning:  mysqli::mysqli(): Headers and client library minor version mismatch. Headers:50542 Library:50167 in /home2/racer161/public_html/coho/student/query.php on line 30
+[05-May-2016 15:21:17 America/Chicago] PHP Warning:  mysqli::mysqli(): Headers and client library minor version mismatch. Headers:50542 Library:50167 in /home2/racer161/public_html/coho/student/query.php on line 30
+[05-May-2016 15:23:15 America/Chicago] PHP Warning:  mysqli::mysqli(): Headers and client library minor version mismatch. Headers:50542 Library:50167 in /home2/racer161/public_html/coho/student/query.php on line 34
+[05-May-2016 15:23:38 America/Chicago] PHP Warning:  mysqli::mysqli(): Headers and client library minor version mismatch. Headers:50542 Library:50167 in /home2/racer161/public_html/coho/student/query.php on line 34
+[05-May-2016 15:24:00 America/Chicago] PHP Warning:  mysqli::mysqli(): Headers and client library minor version mismatch. Headers:50542 Library:50167 in /home2/racer161/public_html/coho/student/query.php on line 34
+[05-May-2016 15:24:00 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/racer161/public_html/coho/student/query.php:34) in /home2/racer161/public_html/coho/student/query.php on line 203
+[05-May-2016 15:24:09 America/Chicago] PHP Warning:  mysqli::mysqli(): Headers and client library minor version mismatch. Headers:50542 Library:50167 in /home2/racer161/public_html/coho/student/query.php on line 34
+[05-May-2016 15:24:09 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/racer161/public_html/coho/student/query.php:34) in /home2/racer161/public_html/coho/student/query.php on line 203
+[05-May-2016 15:24:17 America/Chicago] PHP Warning:  mysqli::mysqli(): Headers and client library minor version mismatch. Headers:50542 Library:50167 in /home2/racer161/public_html/coho/student/query.php on line 34
+[05-May-2016 15:24:17 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/racer161/public_html/coho/student/query.php:34) in /home2/racer161/public_html/coho/student/query.php on line 203
+[05-May-2016 15:25:26 America/Chicago] PHP Warning:  mysqli::mysqli(): Headers and client library minor version mismatch. Headers:50542 Library:50167 in /home2/racer161/public_html/coho/student/query.php on line 31
+[05-May-2016 15:25:26 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/racer161/public_html/coho/student/query.php:31) in /home2/racer161/public_html/coho/student/query.php on line 200
+[05-May-2016 15:25:34 America/Chicago] PHP Warning:  mysqli::mysqli(): Headers and client library minor version mismatch. Headers:50542 Library:50167 in /home2/racer161/public_html/coho/student/query.php on line 31
+[05-May-2016 15:25:49 America/Chicago] PHP Warning:  mysqli::mysqli(): Headers and client library minor version mismatch. Headers:50542 Library:50167 in /home2/racer161/public_html/coho/student/query.php on line 31
+[05-May-2016 15:25:49 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/racer161/public_html/coho/student/query.php:31) in /home2/racer161/public_html/coho/student/query.php on line 200
+[05-May-2016 15:27:14 America/Chicago] PHP Warning:  mysqli::mysqli(): Headers and client library minor version mismatch. Headers:50542 Library:50167 in /home2/racer161/public_html/coho/student/query.php on line 31
+[05-May-2016 15:27:14 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/racer161/public_html/coho/student/query.php:31) in /home2/racer161/public_html/coho/student/query.php on line 200
+[05-May-2016 15:27:56 America/Chicago] PHP Warning:  mysqli::mysqli(): Headers and client library minor version mismatch. Headers:50542 Library:50167 in /home2/racer161/public_html/coho/student/query.php on line 32
+[05-May-2016 15:27:56 America/Chicago] PHP Warning:  mysqli::mysqli(): Headers and client library minor version mismatch. Headers:50542 Library:50167 in /home2/racer161/public_html/coho/student/query.php on line 32
+[05-May-2016 15:30:49 America/Chicago] PHP Warning:  mysqli::mysqli(): Headers and client library minor version mismatch. Headers:50542 Library:50167 in /home2/racer161/public_html/coho/student/query.php on line 32
+[05-May-2016 15:30:54 America/Chicago] PHP Warning:  mysqli::mysqli(): Headers and client library minor version mismatch. Headers:50542 Library:50167 in /home2/racer161/public_html/coho/student/query.php on line 32
+[05-May-2016 15:43:29 America/Chicago] PHP Warning:  mysqli::mysqli(): Headers and client library minor version mismatch. Headers:50542 Library:50167 in /home2/racer161/public_html/coho/student/query.php on line 32
+[05-May-2016 15:49:25 America/Chicago] PHP Warning:  mysqli::mysqli(): Headers and client library minor version mismatch. Headers:50542 Library:50167 in /home2/racer161/public_html/coho/student/query.php on line 32
+[05-May-2016 16:24:57 America/Chicago] PHP Warning:  mysqli::mysqli(): Headers and client library minor version mismatch. Headers:50542 Library:50167 in /home2/racer161/public_html/coho/student/query.php on line 32
+[05-May-2016 16:25:19 America/Chicago] PHP Warning:  mysqli::mysqli(): Headers and client library minor version mismatch. Headers:50542 Library:50167 in /home2/racer161/public_html/coho/student/query.php on line 32
+[05-May-2016 16:25:32 America/Chicago] PHP Warning:  mysqli::mysqli(): Headers and client library minor version mismatch. Headers:50542 Library:50167 in /home2/racer161/public_html/coho/student/query.php on line 32
+[05-May-2016 16:25:33 America/Chicago] PHP Warning:  mysqli::mysqli(): Headers and client library minor version mismatch. Headers:50542 Library:50167 in /home2/racer161/public_html/coho/student/query.php on line 32
+[05-May-2016 16:29:39 America/Chicago] PHP Warning:  mysqli::mysqli(): Headers and client library minor version mismatch. Headers:50542 Library:50167 in /home2/racer161/public_html/coho/student/query.php on line 32
+[05-May-2016 16:29:40 America/Chicago] PHP Warning:  mysqli::mysqli(): Headers and client library minor version mismatch. Headers:50542 Library:50167 in /home2/racer161/public_html/coho/student/query.php on line 32
+[05-May-2016 16:29:47 America/Chicago] PHP Warning:  mysqli::mysqli(): Headers and client library minor version mismatch. Headers:50542 Library:50167 in /home2/racer161/public_html/coho/student/query.php on line 32
+[06-May-2016 10:56:12 America/Chicago] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home2/racer161/public_html/coho/student/index.php on line 42
+[06-May-2016 10:56:23 America/Chicago] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home2/racer161/public_html/coho/student/index.php on line 42
+[06-May-2016 10:56:28 America/Chicago] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home2/racer161/public_html/coho/student/index.php on line 42
